@@ -1,5 +1,7 @@
 # Software Engineering GitHub How-To
 
+<hr/>
+
 This is a repo for teaching GitHub
 
 Contents:
