@@ -1,2 +1,6 @@
-# TheCYBR404
-This is the repository we will use to teach the students how to use GitHub effectively.
+# Software Engineering GitHub How-To
+
+This is a repo for teaching GitHub
+
+Contents:
+1. [Requirements](https://github.com/adamspanier/TheCYBR404/blob/main/Documentation/Requirements.md)
